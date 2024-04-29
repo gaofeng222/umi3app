@@ -1,17 +1,17 @@
 # umi project
 
-## Getting Started
+## 开启指南
 
-Install dependencies,
+安装依赖,
 
 ```bash
-$ yarn
+$ tyarn
 ```
 
-Start the dev server,
+开启服务
 
 ```bash
-$ yarn start
+$ tyarn dev
 ```
 ## 安装方式
 
